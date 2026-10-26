@@ -1,0 +1,9 @@
+
+# Reporte del proyecto
+reporte*
+reporte/**/*
+report*
+report/**/*
+*.pdf
+*.doc
+*.docx
